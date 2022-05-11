@@ -1,6 +1,5 @@
 # volopay
 
 Setup:
-
-# npm install
-# yarn start / npm start
+1. npm install
+2. yarn start / npm start
